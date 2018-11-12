@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+canvas{
+    border-style: solid;
+}
+.input{
+    border-style: solid;
+    width: 10%;
+}
